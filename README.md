@@ -84,9 +84,9 @@ clara y visualmente organizada.
 - Seaborn
 
 
-# 🛠️ Instalación
+# 🛠️ Streamlit
 
-## 1️⃣ Clonar el repositorio
+## 1️⃣ Enlace de aplicativo
 
 ```bash
-git clone https://github.com/tu_usuario/bank-marketing-eda.git
+link https://miaplicacioncaso1-af.streamlit.app/
