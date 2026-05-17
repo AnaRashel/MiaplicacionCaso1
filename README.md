@@ -82,3 +82,11 @@ clara y visualmente organizada.
 - NumPy
 - Matplotlib
 - Seaborn
+
+
+# 🛠️ Instalación
+
+## 1️⃣ Clonar el repositorio
+
+```bash
+git clone https://github.com/tu_usuario/bank-marketing-eda.git
